@@ -1,0 +1,13 @@
+[package]
+name = "cargo-dedup"
+version = "0.1.0"
+authors = ["Yu Ding <dingelish@gmail.com>"]
+edition = "2018"
+homepage = "https://github.com/dingelish/cargo-dedup"
+repository = "https://github.com/dingelish/cargo-dedup"
+license = "Apache-2.0"
+description = "Dedup crates in Cargo.lock"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
